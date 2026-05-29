@@ -142,7 +142,7 @@ def start_display() -> None:
         WEBSOCKIFY,
         "--web", NOVNC_WEB,
         f"{TAILNET_IP}:{NOVNC_PORT}",
-        f"localhost:{VNC_PORT}",
+        f"{TAILNET_IP}:{VNC_PORT}",
     ])
     _children.append(ws)
 
