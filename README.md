@@ -1,4 +1,4 @@
-# Human Takeover Supervisor
+# Human Takeover Supervisor (VNC Edition)
 
 Transport-agnostic human-in-the-loop supervisor for browser automation. When your
 agent hits a CAPTCHA, bot-detection puzzle, or login wall, the supervisor:
@@ -7,6 +7,8 @@ agent hits a CAPTCHA, bot-detection puzzle, or login wall, the supervisor:
 2. Notifies you via Telegram with a noVNC link
 3. Gives you full mouse/keyboard control over the browser session
 4. Waits for your "resume" signal before letting the agent continue
+
+**VNC Edition** — requires a local browser (Chromium/Firefox) on the Xvfb display. For the chat-based version (no VNC needed), see [takeover-supervisor](https://github.com/joewpb/takeover-supervisor).
 
 ## How It Works
 
