@@ -173,8 +173,8 @@ _None provided_
 | Field | Value |
 |-------|-------|
 | Hermes Run ID | discovery |
-| Payload Hash | b68a32e924a3abd5c65d28530860e4d39f44ea909a728a0ff7f68756172da2b1 |
+| Payload Hash | 4882a874bd7ffa4b7e420960cedf0b22c9757179fa2c7984ee425c65355cbb57 |
 | Source Path | /home/hermes/workspace/takeover-supervisor-vnc |
-| Published At | 2026-06-14T09:00:46Z |
+| Published At | 2026-06-15T09:00:22Z |
 | Kind | project |
 | Destination | existing_repo |
